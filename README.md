@@ -1,6 +1,6 @@
 # TITLE
 
-![Lending Club!](Images\download.jpg)
+![Lending Club!](Case_Study_1_HE\Images\download.jpg)
 
 ## Overview and Origin
 
