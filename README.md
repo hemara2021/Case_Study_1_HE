@@ -1,6 +1,6 @@
 # TITLE
 
-![Lending Club!](Images\download.jfif)
+![Lending Club!](Images\download.jpg)
 
 ## Overview and Origin
 
