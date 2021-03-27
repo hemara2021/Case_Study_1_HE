@@ -1,7 +1,7 @@
 # **FinTech Case Study - Lending**
 
 
-![*LendingClub*](download.jpg)
+![LendingClub](download.jpg)
 
 ## **Impact of FinTech Within Lending Market - LendingClub**
 
@@ -15,32 +15,33 @@
 
 ## Business Model:
 
-- LendingClub created a new avenue to both, lenders and borrowers, within lending market away from tredtional banking. It has been creating a smoother process for borrowers and issue notes to investors.
+- LendingClub created a new avenue to both, lenders and borrowers, within lending market away from traditional banking. It has been creating a smoother process for borrowers and issue notes to investors.
 
-- At the begining LendingClub trageted samll borrowers, $ 1,000 to $40,000 loans, and individual investors that can't conduct business with larg banks.
+- At the beginning LendingClub targeted small borrowers, $ 1,000 to $40,000 loans, and individual investors that can't conduct business with large banks.
 
-- As FinTech company, the cost of infursracure was much lower than large banks. Therfore, their service fee and profit was great compared to traditional lending market.
+- As FinTech company, the cost of infrastructure was much lower than large banks. Therefore, their service fee and profit was great compared to traditional lending market.
 
-- In 2014 75% of the investors are individuals and that percentage have been fluctuating thoughout the years. 
+- In 2014 75% of the investors are individuals and that percentage have been fluctuating throughout the years. 
 
-- Lending CLub is using LC platform that was develpoed by Lending Club developers. The platform includes an ecosystem of microservices, database technologies, cloud computing technologies, web-based software-as-a-service, and mobile software technologies built upon and improved for over a decade.
+- LendingCLub is using LC platform that was developed by Lending Club developers. The platform includes an ecosystem of microservices, database technologies, cloud computing technologies, web-based software-as-a-service, and mobile software technologies built upon and improved for over a decade.
 
 
 ## Market:
 
-- The lending market has been evloving tremandously in the past 5 years and technology have chnaged the shap of underwriting process, funding, investing, closing.
+- The lending market has been evolving tremendously in the past 5 years and technology have changed the shape of underwriting process, funding, investing, closing.
 
-- The new lending business model have attracted others to join the market and become strong competetors like Prosper, Sofi, and Khutzpa.com.
+- The new lending business model have attracted others to join the market and become strong competitors like Prosper, Sofi, and Khutzpa.com.
 
 
 ## Performance: 
 
-- Lendingclub have explored carloans and mortgaes and that increased thier market share.
+- Lendingclub have explored car loans and mortgages and that increased their market share.
 
-- as they have been a ponieer in online lending, they still mintain good share ofthe market. However, the valuation of peers that have not gone public tend to be much better than online lending platforms that have gone publice because of the stock fluctuation impact. 
+- as they have been a pioneer in online lending, they still maintain good share of the market. However, the valuation of peers that have not gone public tend to be much better than online lending platforms that have gone public because of the stock fluctuation impact. 
 
 
 ## Recommendations:
 
-- offering or creating Cryptocurrencies lending could be another step owards the future.
+- offering or creating Cryptocurrencies lending could be another step towards the future.
+
 
